@@ -19,7 +19,7 @@
         "php": "^8.0 || ^8.1 || ^8.2",
         "abanoubnassem/filament-grecaptcha-field": "^0.0",
         "bacon/bacon-qr-code": "^2.0",
-        "filament/filament": "^3.0",
+        "filament/filament": "^2.0|^3.0",
         "illuminate/contracts": "^9.0 || ^10.0",
         "jenssegers/agent": "^2.6",
         "phpsa/filament-password-reveal": "^1.1",
